@@ -1,0 +1,23 @@
+
+
+
+
+FR 22-
+In MERCHANDISER ATTENDANCE REPORT, in "Attendance Details" downloaded excel file "Merchandiser Code" data need to check as per business logic. (Existing data are RSO Code)
+"Merchandiser Attendance Summary" need to check with business logic.
+
+
+Fr 23-
+Need to check EV Balance Return Request from "Retailer App" and "DMS" at the same time.
+Need to check EV Balance Return Request from "DMS".
+Need to check EV Balance Return Request from "Retailer App".
+
+
+
+FR 24- 
+"DISTRIBUTOR STOCK FLOOR REPORT" must be changed to "DISTRIBUTOR SC STOCK FLOOR REPORT" or "DISTRIBUTOR STOCK FLOOR REPORT (SC)"
+
+
+
+
+

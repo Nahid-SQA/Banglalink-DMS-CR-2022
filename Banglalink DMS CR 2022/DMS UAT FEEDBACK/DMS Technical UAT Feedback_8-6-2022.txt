@@ -1,0 +1,24 @@
+FR 9- 
+1. In POSM Write OFF From Retailer, The available quantity of product should be shown as a text lebel under "Quantity*" Field after selecting the Product from the "Product*" dropdown.
+
+2. In POSM Write OFF From Distributor, The available quantity of product should be shown as a text lebel under "Quantity*" Field after selecting the Product from the "Product*" dropdown.
+
+3. In RETURN POSM PRODUCT, The available quantity of product should be shown as a text lebel under "Quantity*" Field after selecting the Product from the "Product*" dropdown.
+
+4. In POSM Product Return From Distributor the newly saved data must be Order By (Last Saved First position, descending) LIFO.
+
+5. In POSM PRODUCT RETURN LIST the newly saved data must be Order By (Last Saved First position, descending) LIFO.
+
+
+
+FR 11- 
+
+1. Need to provide more sample data.
+2. Need Business Feedback on "Issue Date" in Return Device To Warehouse Report.
+3. Need Business Feedback on "Mark Device as Faulty/Damaged Excel Export" feature.
+
+
+
+FR 16- 
+
+1. Check the total process works appropriately with newly added ISRAN Status (Yes or No).

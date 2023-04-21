@@ -1,0 +1,28 @@
+
+
+
+FR 7- 
+
+In "SC Range" all data must show in the list.
+
+In Marchendiser Contact No. Search (with or without "0") should work or not. (Decession pending from Babu vai)
+
+In "SC Range", "Merchandiser Contact No.", "TMO Contact NO." table data front must be as same as DMS Live Developrd front.
+
+
+
+FR 10- 
+
+For Business UAT test data/sample data must be provided to business.
+
+In Issue To Retailer "Status" must renamed to "Inventory Owner" Status.
+
+In "Audit Report Product Wise" "Device Name" must be changed to "Product Name" as dropdown menu and multiple selactable checkboxes system.
+
+In "Audit Report Summary" data list view "Return-eissue to retailer count" must be renamed as "Return-reissue to retailer count".
+Add Count in "Return_To_WH_Intact", "Return_To_WH_faulty", "MigratedOtherDD"
+
+In "Device Overview Report" the column "Return_To_WH_faulty" must be renamed and worked as "Return_To_WH_faulty_Count"
+
+
+

@@ -1,0 +1,21 @@
+
+
+FR 2- "Morning Table View" and "D-1 data" pages
+Excel will get downloaded by clicking on item.
+Provide some sample data
+
+D-1 data
+Excel will get downloaded by clicking on item.
+
+Retailer Pending Verification
+"LoginName to Change By" in Excel
+
+
+FR 5- 
+"Date Retailer App Login" must be changed to "Date Wise Retailer Ap Login"
+
+
+
+For Number Field in Excel the column must in number format for all Excel Export Report.
+
+

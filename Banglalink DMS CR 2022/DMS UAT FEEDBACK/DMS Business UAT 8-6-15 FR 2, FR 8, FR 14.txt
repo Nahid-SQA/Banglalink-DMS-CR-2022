@@ -1,0 +1,9 @@
+
+
+
+
+FR 2- 
+
+1. In "Low Balance Retailer" Excel Report the data and logic for "Product" column must be (ITOPUP) type product.
+
+2. In "Zero Stock Retailer" Excel Report the data and logic for "Product" column must be (Sim, and Scratch Card) type product.

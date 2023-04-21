@@ -1,0 +1,26 @@
+
+
+
+FR 12- 
+
+1. Need Export Excel feature for User Feedback List. (Business Obsevation)
+
+
+
+
+
+FR 18-
+
+1. NID must be unique for each Merchandiser.
+2. Disabled Merchandiser NID can be re-used.
+
+
+
+
+
+FR 24-
+
+1. In the Distributor Stock Report (SC) must have Start Serial, End Serial, Count (Count of Start Serial-End Serial quantity), Distributor Code, and Product Code. (Business Obsevation)
+
+
+
